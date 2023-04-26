@@ -76,7 +76,7 @@
     display: block;
     width: 80%;
     margin: auto;
-    border-radius: 80%;
+    border-radius: 100%;
 }
 
 .inicio .contenido-banner h1{
@@ -400,7 +400,7 @@
     .curriculum .fila .col{
         width: 90%;
     }
-    }
+}
 
 
 
